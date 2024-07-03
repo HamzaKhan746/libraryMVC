@@ -1,0 +1,79 @@
+﻿@using System.Data
+@using System.Data.SqlClient
+@model System.Data.DataTable
+@{
+    ViewData["Title"] = "Update Member";
+   Layout = "~/Views/Shared/Libdashboard.cshtml";
+
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Update Member</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" type="text/css" href="~/css/updforms.css" asp-append-version="true">
+</head>
+<body>
+    <div class="upd_form" >
+                    <h2>UPDATE MEMBER</h2>
+
+                    <div class="enterb">
+                         @using (Html.BeginForm("SearchMember","Member"))
+            {
+                <label for="bname">Enter Member Id</label><br><br>
+                <input type="number" name="txtmid" id="bname" placeholder="Enter Member id which you want to Edit"><br><br>
+                        <input type="submit" value="SEARCH" style="width:130px;  height:23px; border:None; margin-left:100px; background-color:darkblue; color:white; font-size: 0.8em;">
+            }
+                    </div>
+                    <form method="post" action="@Url.Action("EditMember","Member")">
+        @{
+            if (@ViewBag.flag == 1)
+            {
+                if (Model.Rows.Count > 0)
+                   {
+                        <table class="upd">
+
+                            <tr>
+                                <td> <label for="fname">First Name</label></td>
+                                <td><input type="text" name="txtfname" id="fname" value="@Model.Rows[0]["firstname"]"></td>
+                            </tr>
+
+                            <tr>
+                                <td><label for="lname">Last Name</label></td> 
+                                <td><input type="text" name="txtlname" id="lname" value="@Model.Rows[0]["lastname"]"></td>
+                            </tr>
+
+                            <tr>
+                                <td><label for="email">Email</label></td>
+                                <td><input type="email" name="txtemail" id="email" value="@Model.Rows[0]["email"]"></td>
+                            </tr>
+
+                            <tr>
+                                <td><label for="contact">Contact</label></td>
+                                <td><input type="text" name="txtcontact" id="contact" value="@Model.Rows[0]["contact"]"></td>
+                            </tr>
+
+                            <tr>
+                                <td> <label for="address">Address</label></td>
+                                <td><input type="text" name="txtaddress" id="address" value="@Model.Rows[0]["address"]"></td>
+                            </tr>
+
+                            <tr>
+                                <td><label for="password">Password</label></td>
+                                <td><input type="password" name="txtpassword" id="password" value="@Model.Rows[0]["password"]"></td>
+                        </table>    
+                        <input type="submit" value="UPDATE" class="btn">
+            }
+            else
+                    {
+                        <script type="text/javascript">
+                alert("Invalid Book id, Enter again");
+                      </script>
+                    }
+            }}
+            </form>
+            </div>
+</body>
+</html>

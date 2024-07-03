@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Add Book";
+   Layout = "~/Views/Shared/Libdashboard.cshtml";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="~/css/library.css" asp-append-version="true">
+    <title>Add Book</title>
+</head>
+<body>
+    <form class="add_form" method="post" action="@Url.Action("InsertBook","Book")">
+        <h2 style="text-align:center;">ADD BOOK</h2><br>
+        <img src="~/css/img2.png" style="height:120px; margin-left:420px;"><br><br>
+        <table class="ad" style="margin-top:-10px;">
+            <tr>
+                <td> <label for="bname">Book Name</label></td>
+                <td><input type="text" name="txtbname" id="bname"></td>
+            </tr>
+            <tr>
+               <td><label for="aname">Author Name</label></td> 
+               <td><input type="text" name="txtauthorname" id="aname"></td>
+            </tr>
+            <tr>
+                <td><label for="publisher">Book Publisher</label></td>
+                <td><input type="text" name="txtpublisher" id="publisher"></td>
+            </tr>
+            <tr>
+                <td><label for="category">Category</label></td>
+                <td><input type="text" name="txtcategory" id="category"></td>
+            </tr>
+            <tr>
+                <td> <label for="price">Book Price</label></td>
+                <td><input type="number" name="txtprice" id="price"></td>
+            </tr>
+            <tr>
+                <td><label for="quantity">Quantity</label></td>
+                <td><input type="number" name="txtquantity" id="quantity"></td>
+            </table>    
+    <input type="submit" value="ADD" class="btn">
+    </form>
+</body>
+</html>
+
+
+
+

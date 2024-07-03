@@ -1,0 +1,686 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\views\\shared\\memberdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:views\\shared\\memberdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\controllers\\functioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:controllers\\functioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\controllers\\sidemembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:controllers\\sidemembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\views\\member\\addmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:views\\member\\addmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\models\\membermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:models\\membermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\models\\sidemembermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:models\\sidemembermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\views\\function\\viewissuebookrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:views\\function\\viewissuebookrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\views\\function\\returnedbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:views\\function\\returnedbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\views\\function\\returnbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:views\\function\\returnbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\views\\function\\issuebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:views\\function\\issuebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\views\\book\\updatebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:views\\book\\updatebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\models\\functionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:models\\functionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\views\\book\\viewbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:views\\book\\viewbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\wwwroot\\css\\library.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:wwwroot\\css\\library.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\views\\sidemember\\mreturnbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:views\\sidemember\\mreturnbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\wwwroot\\css\\issue.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:wwwroot\\css\\issue.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\views\\member\\viewmemberdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:views\\member\\viewmemberdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\views\\shared\\libdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:views\\shared\\libdashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\wwwroot\\css\\dstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:wwwroot\\css\\dstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\views\\sidemember\\mydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:views\\sidemember\\mydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\views\\member\\viewlibrariandetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:views\\member\\viewlibrariandetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\views\\shared\\message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:views\\shared\\message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\views\\sidemember\\myreturnedbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:views\\sidemember\\myreturnedbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\views\\sidemember\\myissuedbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:views\\sidemember\\myissuedbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\views\\function\\issuedbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:views\\function\\issuedbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\wwwroot\\css\\updforms.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:wwwroot\\css\\updforms.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\views\\member\\updatemember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:views\\member\\updatemember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\views\\book\\deletebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:views\\book\\deletebook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\views\\member\\deletemember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:views\\member\\deletemember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|c:\\users\\hamza khan\\desktop\\github\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E819AA9-F2CC-4734-94A3-A94D5C052A47}|library.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 294,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MemberModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Models\\MemberModel.cs",
+              "RelativeDocumentMoniker": "Models\\MemberModel.cs",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Models\\MemberModel.cs",
+              "RelativeToolTip": "Models\\MemberModel.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAAwK8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:47:29.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddMember.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Member\\AddMember.cshtml",
+              "RelativeDocumentMoniker": "Views\\Member\\AddMember.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Member\\AddMember.cshtml",
+              "RelativeToolTip": "Views\\Member\\AddMember.cshtml",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T17:47:29.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "Controllers\\MemberController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:47:29.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SideMemberController.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Controllers\\SideMemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SideMemberController.cs",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Controllers\\SideMemberController.cs",
+              "RelativeToolTip": "Controllers\\SideMemberController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:47:29.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FunctionController.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Controllers\\FunctionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FunctionController.cs",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Controllers\\FunctionController.cs",
+              "RelativeToolTip": "Controllers\\FunctionController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAkwD0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:47:29.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Memberdashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Shared\\Memberdashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Memberdashboard.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Shared\\Memberdashboard.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Memberdashboard.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T17:47:29.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:47:29.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "Models\\BookModel.cs",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Models\\BookModel.cs",
+              "RelativeToolTip": "Models\\BookModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:47:29.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T17:47:29.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T17:47:29.699Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwBcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:47:29.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAWwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:47:29.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T17:47:29.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T17:47:29.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T17:47:29.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReturnBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Function\\ReturnBook.cshtml",
+              "RelativeDocumentMoniker": "Views\\Function\\ReturnBook.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Function\\ReturnBook.cshtml",
+              "RelativeToolTip": "Views\\Function\\ReturnBook.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAADwAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T17:47:29.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReturnedBooks.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Function\\ReturnedBooks.cshtml",
+              "RelativeDocumentMoniker": "Views\\Function\\ReturnedBooks.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Function\\ReturnedBooks.cshtml",
+              "RelativeToolTip": "Views\\Function\\ReturnedBooks.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAABwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T17:47:29.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ViewIssueBookRequest.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Function\\ViewIssueBookRequest.cshtml",
+              "RelativeDocumentMoniker": "Views\\Function\\ViewIssueBookRequest.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Function\\ViewIssueBookRequest.cshtml",
+              "RelativeToolTip": "Views\\Function\\ViewIssueBookRequest.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACIAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T17:47:29.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SideMemberModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Models\\SideMemberModel.cs",
+              "RelativeDocumentMoniker": "Models\\SideMemberModel.cs",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Models\\SideMemberModel.cs",
+              "RelativeToolTip": "Models\\SideMemberModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:47:29.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IssueBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Function\\IssueBook.cshtml",
+              "RelativeDocumentMoniker": "Views\\Function\\IssueBook.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Function\\IssueBook.cshtml",
+              "RelativeToolTip": "Views\\Function\\IssueBook.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T17:47:29.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Book\\UpdateBook.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\UpdateBook.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Book\\UpdateBook.cshtml",
+              "RelativeToolTip": "Views\\Book\\UpdateBook.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAD4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T17:47:29.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FunctionModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Models\\FunctionModel.cs",
+              "RelativeDocumentMoniker": "Models\\FunctionModel.cs",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Models\\FunctionModel.cs",
+              "RelativeToolTip": "Models\\FunctionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:47:29.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "library.csproj",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\library.csproj",
+              "RelativeDocumentMoniker": "library.csproj",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\library.csproj",
+              "RelativeToolTip": "library.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-02T17:47:29.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "library.css",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\wwwroot\\css\\library.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\library.css",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\wwwroot\\css\\library.css",
+              "RelativeToolTip": "wwwroot\\css\\library.css",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-02T17:47:29.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ViewBooks.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Book\\ViewBooks.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\ViewBooks.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Book\\ViewBooks.cshtml",
+              "RelativeToolTip": "Views\\Book\\ViewBooks.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T17:47:29.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MReturnBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\SideMember\\MReturnBook.cshtml",
+              "RelativeDocumentMoniker": "Views\\SideMember\\MReturnBook.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\SideMember\\MReturnBook.cshtml",
+              "RelativeToolTip": "Views\\SideMember\\MReturnBook.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAB4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T17:47:29.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "issue.css",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\wwwroot\\css\\issue.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\issue.css",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\wwwroot\\css\\issue.css",
+              "RelativeToolTip": "wwwroot\\css\\issue.css",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-02T17:47:29.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ViewMemberdetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Member\\ViewMemberdetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Member\\ViewMemberdetails.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Member\\ViewMemberdetails.cshtml",
+              "RelativeToolTip": "Views\\Member\\ViewMemberdetails.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T17:47:29.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Libdashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Shared\\Libdashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Libdashboard.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Shared\\Libdashboard.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Libdashboard.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAIBJwDAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T17:47:29.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "dstyle.css",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\wwwroot\\css\\dstyle.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\dstyle.css",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\wwwroot\\css\\dstyle.css",
+              "RelativeToolTip": "wwwroot\\css\\dstyle.css",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwBwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-02T17:47:29.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Mydetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\SideMember\\Mydetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\SideMember\\Mydetails.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\SideMember\\Mydetails.cshtml",
+              "RelativeToolTip": "Views\\SideMember\\Mydetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T17:47:29.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Message.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Shared\\Message.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Message.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Shared\\Message.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Message.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T17:47:29.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ViewLibrariandetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Member\\ViewLibrariandetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Member\\ViewLibrariandetails.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Member\\ViewLibrariandetails.cshtml",
+              "RelativeToolTip": "Views\\Member\\ViewLibrariandetails.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAIBJwBoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T17:47:29.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MyReturnedBooks.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\SideMember\\MyReturnedBooks.cshtml",
+              "RelativeDocumentMoniker": "Views\\SideMember\\MyReturnedBooks.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\SideMember\\MyReturnedBooks.cshtml",
+              "RelativeToolTip": "Views\\SideMember\\MyReturnedBooks.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T17:47:29.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MyIssuedBooks.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\SideMember\\MyIssuedBooks.cshtml",
+              "RelativeDocumentMoniker": "Views\\SideMember\\MyIssuedBooks.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\SideMember\\MyIssuedBooks.cshtml",
+              "RelativeToolTip": "Views\\SideMember\\MyIssuedBooks.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T17:47:29.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IssuedBooks.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Function\\IssuedBooks.cshtml",
+              "RelativeDocumentMoniker": "Views\\Function\\IssuedBooks.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Function\\IssuedBooks.cshtml",
+              "RelativeToolTip": "Views\\Function\\IssuedBooks.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAIBJwB4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T17:47:29.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "updforms.css",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\wwwroot\\css\\updforms.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\updforms.css",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\wwwroot\\css\\updforms.css",
+              "RelativeToolTip": "wwwroot\\css\\updforms.css",
+              "ViewState": "AQIAAIMAAAAAAAAAAIBJwJIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-02T17:47:29.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UpdateMember.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Member\\UpdateMember.cshtml",
+              "RelativeDocumentMoniker": "Views\\Member\\UpdateMember.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Member\\UpdateMember.cshtml",
+              "RelativeToolTip": "Views\\Member\\UpdateMember.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T17:47:29.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DeleteBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Book\\DeleteBook.cshtml",
+              "RelativeDocumentMoniker": "Views\\Book\\DeleteBook.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Book\\DeleteBook.cshtml",
+              "RelativeToolTip": "Views\\Book\\DeleteBook.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAEBVwBQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T17:47:29.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DeleteMember.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Member\\DeleteMember.cshtml",
+              "RelativeDocumentMoniker": "Views\\Member\\DeleteMember.cshtml",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Views\\Member\\DeleteMember.cshtml",
+              "RelativeToolTip": "Views\\Member\\DeleteMember.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T17:47:29.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hamza Khan\\Desktop\\GIthub\\library\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAMBtwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:47:29.85Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

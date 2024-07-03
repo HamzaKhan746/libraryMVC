@@ -1,0 +1,70 @@
+﻿@{
+    ViewData["Title"] = "Update Book";
+   Layout = "~/Views/Shared/Libdashboard.cshtml";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Update Book</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" type="text/css" href="~/css/updforms.css"  asp-append-version="true">
+</head>
+<body>
+<div class="upd_form">
+                    <h2>UPDATE BOOK</h2>
+                    <div class="enterb">
+                        @using (Html.BeginForm("SearchBook","Book"))
+            {
+                <label for="bname">Enter Book Id </label><br><br>
+                <input type="text" name="txtbid" id="bname" class="text" placeholder="Enter Book id you want to Edit"><br><br>
+                        <input type="submit" value="SEARCH" style="width:130px;  height:23px; border:None; margin-left:100px; background-color:darkblue; color:white; font-size: 0.8em;">
+            }
+                    </div>
+                    <form method="post" action="@Url.Action("EditBook","Book")">
+        @{
+            if (@ViewBag.flag == 1)
+            {
+                if (Model.Rows.Count > 0)
+                   {
+                        <table class="upd">
+                            <tr>
+                                <td> <label for="bname">Book Name</label></td>
+                                <td><input type="text" name="txtbname" id="bname" value="@Model.Rows[0]["bookname"]"></td>
+                            </tr>
+                            <tr>
+                               <td><label for="aname">Author Name</label></td> 
+                               <td><input type="text" name="txtauthorname" id="aname" value="@Model.Rows[0]["authorname"]"></td>
+                            </tr>
+                            <tr>
+                                <td><label for="publisher">Book Publisher</label></td>
+                                <td><input type="text" name="txtpublisher" id="publisher" value="@Model.Rows[0]["publisher"]"></td>
+                            </tr>
+                            <tr>
+                                <td><label for="category">Category</label></td>
+                                <td><input type="text" name="txtcategory" id="category" value="@Model.Rows[0]["category"]"></td>
+                            </tr>
+                            <tr>
+                                <td> <label for="price">Book Price</label></td>
+                                <td><input type="number" name="txtprice" id="price" value="@Model.Rows[0]["price"]"></td>
+                            </tr>
+                            <tr>
+                                <td><label for="quantity">Quantity</label></td>
+                                <td><input type="number" name="txtquantity" id="quantity" value="@Model.Rows[0]["quantity"]"></td></tr>
+                            </table> 
+                        <input type="submit" value="UPDATE" class="btn">
+                    }
+                    else
+                    {
+                       <script type="text/javascript">
+                alert("Invalid Book id, Enter again");
+                      </script>
+                    }
+                }
+            }
+
+         </form>
+         </div>
+</body>
+</html>

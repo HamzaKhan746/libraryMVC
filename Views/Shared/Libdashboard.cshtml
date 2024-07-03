@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>@ViewData["Title"] - LibraryManagementSystem</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width">
+	<link rel="stylesheet" type="text/css" href="~/css/dstyle.css" asp-append-version="true">
+    
+</head>
+<body>
+<header>
+	<h1 style="padding-top:10px;">Library Management System</h1>
+</header>
+<nav>
+	<ul class="one">
+     <li><img src="~/css/img1.jpg" style="height:35px;"><a href="#">Views</a>
+         <ul>
+     		<li><a asp-area="" asp-controller="Function" asp-action="IssuedBooks"><b>View Issued Books</b></a></li>
+     		<li><a asp-area="" asp-controller="Function" asp-action="ReturnedBooks">View Returned Books</a></li>
+     		<li><a asp-area="" asp-controller="Function" asp-action="ViewIssueBookRequest">IssueBoook Requests</a></li>
+             </ul>
+             </li>
+     <li><img src="~/css/img2.png" style="height:35px;"><a href="#">Books</a>
+     	<ul>
+     		<li><a asp-area="" asp-controller="Function" asp-action="IssueBook"><b>Issue Book</b></a></li>
+     		<li><a asp-area="" asp-controller="Function" asp-action="ReturnBook">Return Book</a></li>
+     		<li><a asp-area="" asp-controller="Book" asp-action="AddBook">Add Book</a></li>
+             <li><a asp-area="" asp-controller="Book" asp-action="UpdateBook">Update Book</a></li>
+             <li><a asp-area="" asp-controller="Book" asp-action="DeleteBook">Delete Book</a></li>
+             <li><a asp-area="" asp-controller="Book" asp-action="ViewBooks">View Books</a></li>
+     		</ul>
+     </li>
+     <li><img src="~/css/img5.jpg" style="height:35px;"><a href="#">Member</a>
+         <ul>
+         <li><a asp-area="" asp-controller="Member" asp-action="ViewMemberdetails">View Member Details</a></li>
+           <li><a asp-area="" asp-controller="Member" asp-action="AddMember">Add Member</a></li>
+           <li><a asp-area="" asp-controller="Member" asp-action="UpdateMember">Update Member</a></li>
+           <li><a asp-area="" asp-controller="Member" asp-action="DeleteMember">Delete Member</a></li>
+     	</ul>
+         </li>
+     <li><img src="~/css/img6.jpg" style="height:35px; width:32px;"><a href="#">Librarian</a>
+         <ul>
+         <li><a asp-area="" asp-controller="Member" asp-action="ViewLibrariandetails">View Librarian Details</a></li>
+           <li><a asp-area="" asp-controller="Member" asp-action="UpdateLibrarian">Update Librarian</a></li>
+     	</ul>
+         </li>
+         <li><details><summary></summary><a asp-area="" asp-controller="Home" asp-action="Index">Log out</a></details></li>
+         </ul>
+        </nav>
+        <div>@RenderBody()</div>
+</body>
+</html>

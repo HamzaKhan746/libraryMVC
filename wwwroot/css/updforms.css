@@ -1,0 +1,160 @@
+﻿html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    background-color: rgb(168, 203, 218);
+}
+
+h2 {
+    color: darkblue;
+    font-size: 1.8em;
+    margin-left: 50px;
+    padding-top: 30px;
+}
+
+.btn {
+    background-color: darkblue;
+    color: white;
+    height: 35px;
+    width: 110px;
+    border-radius: 20px;
+    font-weight: bold;
+    border: None;
+    margin-left: 640px;
+    margin-top: 10px;
+}
+
+.upd_form {
+    margin-top: 60px;
+    margin-left: 50px;
+    margin-right: 200px;
+    background-color: white;
+    height: 430px;
+    border-radius: 40px;
+}
+
+.upd tr {
+    line-height: 36px;
+}
+
+    .upd tr td label {
+        padding-left: 50px;
+        font-weight: bold;
+        font-size: 1.4em;
+    }
+
+    .upd tr td input {
+        width: 350px;
+        height: 23px;
+        border: 2px solid black;
+        border-radius: 20px;
+        font-weight: bold;
+        font-size: 1.0em;
+        text-align: center;
+    }
+
+.upd {
+    background-color: white;
+    margin-left: 370px;
+    margin-top: -330px;
+}
+
+.enterb {
+    background-color: rgb(153, 214, 238);
+    height: 230px;
+    margin-left: 30px;
+    border-radius: 40px;
+    width: 340px;
+    padding-top: 80px;
+}
+
+    .enterb label {
+        font-weight: bold;
+        font-size: 1.4em;
+    }
+
+    .enterb input {
+        width: 330px;
+        height: 23px;
+        border: 2px solid black;
+        border-radius: 20px;
+        font-size: 1.1em;
+        text-align: center;
+    }
+.del_form {
+    background-color: white;
+    margin-left: 420px;
+    margin-right: 400px;
+    width: 330px;
+    height: 440px;
+    border-radius: 46%;
+    padding-left: 130px;
+}
+
+    .del_form h2 {
+        color: darkblue;
+        text-decoration: underline;
+        font-size: 1.8em;
+        padding-top: 90px;
+    }
+
+    .del_form label {
+        font-weight: bold;
+        font-size: 1.4em;
+    }
+
+    .del_form input {
+        margin-left: -80px;
+        font-weight: bold;
+        font-size: 1.2em;
+        width: 370px;
+        border: 2px solid black;
+        border-radius: 20px;
+        font-size: 1.1em;
+        text-align: center;
+    }
+.smsg {
+    margin-top: -370px;
+    margin-left: 450px;
+}
+.issuer {
+    background-color: white;
+    margin-left: 200px;
+    margin-top: 40px;
+    border-radius: 40px;
+    margin-right: 200px;
+    height: 310px;
+    padding-top: 10px;
+}
+.issuer .is tr td label {
+    padding-left: 50px;
+    font-weight: bold;
+    font-size: 1.4em;
+}
+
+.issuer .is tr td input {
+    width: 350px;
+    height: 23px;
+    border: 2px solid black;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 1.0em;
+    text-align: center;
+}
+
+.issuer .is tr {
+    line-height: 36px;
+}
+.ibtn {
+    background-color: darkblue;
+    color: white;
+    height: 35px;
+    width: 110px;
+    border-radius: 20px;
+    font-weight: bold;
+    border: None;
+    margin-left: 350px;
+    margin-top: 10px;
+}

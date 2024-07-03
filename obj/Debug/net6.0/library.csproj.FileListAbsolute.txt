@@ -1,0 +1,273 @@
+C:\Users\Hafsa\source\repos\library\obj\Debug\net6.0\library.csproj.AssemblyReference.cache
+C:\Users\Hafsa\source\repos\library\obj\Debug\net6.0\library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hafsa\source\repos\library\obj\Debug\net6.0\library.AssemblyInfoInputs.cache
+C:\Users\Hafsa\source\repos\library\obj\Debug\net6.0\library.AssemblyInfo.cs
+C:\Users\Hafsa\source\repos\library\obj\Debug\net6.0\library.csproj.CoreCompileInputs.cache
+C:\Users\Hafsa\source\repos\library\obj\Debug\net6.0\library.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hafsa\source\repos\library\obj\Debug\net6.0\library.RazorAssemblyInfo.cache
+C:\Users\Hafsa\source\repos\library\obj\Debug\net6.0\library.RazorAssemblyInfo.cs
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\appsettings.json
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\library.staticwebassets.runtime.json
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\library.exe
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\library.deps.json
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\library.runtimeconfig.json
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\library.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\library.pdb
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hafsa\source\repos\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hafsa\source\repos\library\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hafsa\source\repos\library\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hafsa\source\repos\library\obj\Debug\net6.0\scopedcss\bundle\library.styles.css
+C:\Users\Hafsa\source\repos\library\obj\Debug\net6.0\library.csproj.CopyComplete
+C:\Users\Hafsa\source\repos\library\obj\Debug\net6.0\library.dll
+C:\Users\Hafsa\source\repos\library\obj\Debug\net6.0\refint\library.dll
+C:\Users\Hafsa\source\repos\library\obj\Debug\net6.0\library.pdb
+C:\Users\Hafsa\source\repos\library\obj\Debug\net6.0\library.genruntimeconfig.cache
+C:\Users\Hafsa\source\repos\library\obj\Debug\net6.0\ref\library.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\appsettings.json
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\library.staticwebassets.runtime.json
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\library.exe
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\library.deps.json
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\library.runtimeconfig.json
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\library.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\library.pdb
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\obj\Debug\net6.0\library.csproj.AssemblyReference.cache
+C:\Users\Hamza Khan\Desktop\MVC\library\obj\Debug\net6.0\library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza Khan\Desktop\MVC\library\obj\Debug\net6.0\library.AssemblyInfoInputs.cache
+C:\Users\Hamza Khan\Desktop\MVC\library\obj\Debug\net6.0\library.AssemblyInfo.cs
+C:\Users\Hamza Khan\Desktop\MVC\library\obj\Debug\net6.0\library.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Khan\Desktop\MVC\library\obj\Debug\net6.0\library.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hamza Khan\Desktop\MVC\library\obj\Debug\net6.0\library.RazorAssemblyInfo.cache
+C:\Users\Hamza Khan\Desktop\MVC\library\obj\Debug\net6.0\library.RazorAssemblyInfo.cs
+C:\Users\Hamza Khan\Desktop\MVC\library\obj\Debug\net6.0\staticwebassets\msbuild.library.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hamza Khan\Desktop\MVC\library\obj\Debug\net6.0\staticwebassets\msbuild.build.library.props
+C:\Users\Hamza Khan\Desktop\MVC\library\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.library.props
+C:\Users\Hamza Khan\Desktop\MVC\library\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.library.props
+C:\Users\Hamza Khan\Desktop\MVC\library\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hamza Khan\Desktop\MVC\library\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hamza Khan\Desktop\MVC\library\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hamza Khan\Desktop\MVC\library\obj\Debug\net6.0\scopedcss\bundle\library.styles.css
+C:\Users\Hamza Khan\Desktop\MVC\library\obj\Debug\net6.0\library.csproj.CopyComplete
+C:\Users\Hamza Khan\Desktop\MVC\library\obj\Debug\net6.0\library.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\obj\Debug\net6.0\refint\library.dll
+C:\Users\Hamza Khan\Desktop\MVC\library\obj\Debug\net6.0\library.pdb
+C:\Users\Hamza Khan\Desktop\MVC\library\obj\Debug\net6.0\library.genruntimeconfig.cache
+C:\Users\Hamza Khan\Desktop\MVC\library\obj\Debug\net6.0\ref\library.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\appsettings.json
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\library.staticwebassets.runtime.json
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\library.exe
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\library.deps.json
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\library.runtimeconfig.json
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\library.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\library.pdb
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\obj\Debug\net6.0\library.csproj.AssemblyReference.cache
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\obj\Debug\net6.0\library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\obj\Debug\net6.0\library.AssemblyInfoInputs.cache
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\obj\Debug\net6.0\library.AssemblyInfo.cs
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\obj\Debug\net6.0\library.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\obj\Debug\net6.0\library.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\obj\Debug\net6.0\library.RazorAssemblyInfo.cache
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\obj\Debug\net6.0\library.RazorAssemblyInfo.cs
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\obj\Debug\net6.0\staticwebassets\msbuild.library.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\obj\Debug\net6.0\staticwebassets\msbuild.build.library.props
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.library.props
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.library.props
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\obj\Debug\net6.0\scopedcss\bundle\library.styles.css
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\obj\Debug\net6.0\library.csproj.Up2Date
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\obj\Debug\net6.0\library.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\obj\Debug\net6.0\refint\library.dll
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\obj\Debug\net6.0\library.pdb
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\obj\Debug\net6.0\library.genruntimeconfig.cache
+C:\Users\Hamza Khan\Desktop\DESKTOP\New folder\MVC\library\obj\Debug\net6.0\ref\library.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\appsettings.json
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\library.staticwebassets.runtime.json
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\library.exe
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\library.deps.json
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\library.runtimeconfig.json
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\library.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\library.pdb
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\obj\Debug\net6.0\library.csproj.AssemblyReference.cache
+C:\Users\Hamza Khan\Desktop\GIthub\library\obj\Debug\net6.0\library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza Khan\Desktop\GIthub\library\obj\Debug\net6.0\library.AssemblyInfoInputs.cache
+C:\Users\Hamza Khan\Desktop\GIthub\library\obj\Debug\net6.0\library.AssemblyInfo.cs
+C:\Users\Hamza Khan\Desktop\GIthub\library\obj\Debug\net6.0\library.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Khan\Desktop\GIthub\library\obj\Debug\net6.0\library.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hamza Khan\Desktop\GIthub\library\obj\Debug\net6.0\library.RazorAssemblyInfo.cache
+C:\Users\Hamza Khan\Desktop\GIthub\library\obj\Debug\net6.0\library.RazorAssemblyInfo.cs
+C:\Users\Hamza Khan\Desktop\GIthub\library\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hamza Khan\Desktop\GIthub\library\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hamza Khan\Desktop\GIthub\library\obj\Debug\net6.0\staticwebassets\msbuild.library.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hamza Khan\Desktop\GIthub\library\obj\Debug\net6.0\staticwebassets\msbuild.build.library.props
+C:\Users\Hamza Khan\Desktop\GIthub\library\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.library.props
+C:\Users\Hamza Khan\Desktop\GIthub\library\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.library.props
+C:\Users\Hamza Khan\Desktop\GIthub\library\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Hamza Khan\Desktop\GIthub\library\obj\Debug\net6.0\scopedcss\bundle\library.styles.css
+C:\Users\Hamza Khan\Desktop\GIthub\library\obj\Debug\net6.0\library.csproj.Up2Date
+C:\Users\Hamza Khan\Desktop\GIthub\library\obj\Debug\net6.0\library.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\obj\Debug\net6.0\refint\library.dll
+C:\Users\Hamza Khan\Desktop\GIthub\library\obj\Debug\net6.0\library.pdb
+C:\Users\Hamza Khan\Desktop\GIthub\library\obj\Debug\net6.0\library.genruntimeconfig.cache
+C:\Users\Hamza Khan\Desktop\GIthub\library\obj\Debug\net6.0\ref\library.dll

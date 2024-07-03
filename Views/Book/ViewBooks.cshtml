@@ -1,0 +1,63 @@
+﻿@using System.Data
+@using System.Data.SqlClient
+@model System.Data.DataTable
+@{
+    ViewData["Title"] = "View Books";
+    if(ViewBag.user=="mem")
+    {
+        Layout = "~/Views/Shared/Memberdashboard.cshtml";
+    }
+    else
+    {
+        Layout = "~/Views/Shared/Libdashboard.cshtml";
+    }
+
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="~/css/library.css" asp-append-version="true">
+</head>
+<body>
+    <div class="add_form">
+        <h2>VIEW BOOK DETAILS</h2>
+         <form class="searchbook" method="post" action="@Url.Action("Searchviewbook","Book")">
+                <label for="bid">Enter Category</label>
+                        <input name="txtcategory" id="bid">
+                        <br />
+               </br>
+                <input type="submit" value="SEARCH" style="width:130px;  height:29px; border:None; margin-left:440px; background-color:darkblue; color:white; font-size: 0.8em; border-radius:20px;">
+                        </form>
+                        <div style="margin-left:430px; margin-top:10px">@Html.ActionLink("SEARCH ALL BOOKS", "ViewBooks")</div>
+        @{
+            if (Model.Rows.Count > 0)
+                {
+                           <table class="tdetails" cellspacing="0" cellpadding="8">
+                                        <thead>
+                                            <tr>
+                                                <th>BOOK ID</th><th>BOOK NAME</th><th>AUTHOR NAME</th><th>PUBLISHER</th><th>CATEGORY</th>
+                                                <th>PRICE</th><th>QUANTITY</th><th>NO OF AVAILABLE BOOKS</th>
+                                            </tr>
+                                        </thead>
+                                     
+                                           @foreach (DataRow dr in Model.Rows)
+                {
+                                                <tr>
+                                                    <td>@dr["bookid"].ToString()</td><td>@dr["bookname"].ToString()</td><td>@dr["authorname"].ToString()</td>
+                                                    <td>@dr["publisher"].ToString()</td><td>@dr["category"].ToString()</td><td> @dr["price"].ToString()</td><td>@dr["quantity"].ToString()</td><td>@dr["noofavailablebooks"].ToString()</td>
+                                                </tr>
+                }
+                                    </table>
+            }
+            else{
+                    <span style="padding-left:350px;">No record of Book found</span>
+        }
+        }
+        
+        
+            </div>
+    </body>
+    </html>

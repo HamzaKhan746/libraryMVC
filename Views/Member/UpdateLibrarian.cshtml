@@ -1,0 +1,50 @@
+﻿@using System.Data
+@using System.Data.SqlClient
+@model System.Data.DataTable
+@{
+    ViewData["Title"] = "Update Member";
+   Layout = "~/Views/Shared/Libdashboard.cshtml";
+
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="~/css/library.css" asp-append-version="true">
+</head>
+<body>
+    <form class="lupd_form" method="post" action="@Url.Action("UpdateLibrarianInfo","Member")">
+        <h2>UPDATE MEMBER</h2><br>
+        <table class="ad" style="margin-top:-10px;">
+            <tr>
+                <td> <label for="fname">Librarian Name</label></td>
+                <td><input type="text" name="txtlibname" id="fname" value="@Model.Rows[0]["libname"]"></td>
+            </tr>
+            <tr>
+                <td><label for="email">Email</label></td>
+                <td><input type="email" name="txtemail" id="email" value="@Model.Rows[0]["email"]"></td>
+            </tr>
+            <tr>
+                <td><label for="contact">Contact</label></td>
+                <td><input type="text" name="txtcontact" id="contact" value="@Model.Rows[0]["contact"]"></td>
+            </tr>
+            <tr>
+                <td> <label for="address">Address</label></td>
+                <td><input type="text" name="txtaddress" id="address" value="@Model.Rows[0]["address"]"></td>
+            </tr>
+            <tr>
+               <td><label for="uname">Username</label></td> 
+               <td><input type="text" name="txtusername" id="uname" value="@Model.Rows[0]["username"]"></td>
+            </tr>
+            <tr>
+                <td><label for="password">Password</label></td>
+                <td><input type="text" name="txtpassword" id="password" value="@Model.Rows[0]["password"]"></td>
+            </table>    
+    <input type="submit" value="UPDATE" class="btn">
+    </form>
+</body>
+</html>
+
+

@@ -1,0 +1,45 @@
+﻿@using System.Data
+@using System.Data.SqlClient
+@model System.Data.DataTable
+@{
+    ViewData["Title"] = "My Issued Books";
+     Layout = "~/Views/Shared/Memberdashboard.cshtml";
+   }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="~/css/library.css" asp-append-version="true">
+</head>
+<body>
+    <form class="add_form">
+        <h2>MY ISSUED BOOKS</h2>
+        @{
+              if(Model.Rows.Count>0)
+                    {
+                                <table class="tdetails" cellspacing="0" cellpadding="8">
+                                    <thead>
+                                        <tr>
+                                            <th>ISSUE BOOK ID</th><th>MEMBER ID</th><th>MEMBER NAME</th><th>BOOK ID</th>
+                                            <th>BOOK NAME</th><th>ISSUE DATE</th><th>RETURN DATE</th>
+                                        </tr>
+                                    </thead>
+                                 
+                                       @foreach (DataRow dr in Model.Rows)
+                {
+                                            <tr>
+                                                <td>@dr["issuebookid"].ToString()</td><td>@dr["memberid"].ToString()</td><td>@dr["firstname"].ToString()</td>
+                                                <td>@dr["bookid"].ToString()</td><td>@dr["bookname"].ToString()</td><td>@dr["issuedate"].ToString()</td><td>@dr["returndate"].ToString()</td>
+                                            </tr>
+                }
+                                </table>
+        }
+        else{
+                <span style="padding-left:350px;">No record of Issued Book found</span>
+            }
+            }
+                </form>
+        </body>
+        </html>

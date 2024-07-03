@@ -1,0 +1,46 @@
+﻿@using System.Data
+@using System.Data.SqlClient
+@model System.Data.DataTable
+@{
+    ViewData["Title"] = "View Member Details";
+   Layout = "~/Views/Shared/Libdashboard.cshtml";
+
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="~/css/library.css" asp-append-version="true">
+</head>
+<body>
+    <form class="add_form">
+        <h2>VIEW MEMBER DETAILS</h2>
+        @{
+              if(Model.Rows.Count>0)
+                    {
+                            <table class="tdetails" cellspacing="0" cellpadding="8">
+                                <thead>
+                                    <tr>
+                                        <th>MEMBER ID</th><th>FIRST NAME</th><th>LAST NAME</th><th>EMAIL</th>
+                                        <th>CONTACT</th><th>ADDRESS</th>
+                                    </tr>
+                                </thead>
+                                
+                                   @foreach (DataRow dr in Model.Rows)
+                {
+                                        <tr>
+                                            <td>@dr["memberid"].ToString()</td><td>@dr["firstname"].ToString()</td><td>@dr["lastname"].ToString()</td>
+                                            <td>@dr["email"].ToString()</td><td>@dr["contact"].ToString()</td><td>@dr["address"].ToString()</td>
+                                        </tr>
+                }
+                            </table>
+        }
+        else{
+            <span style="padding-left:350px;">No record of Member found</span>
+        }
+        }
+            </form>
+    </body>
+    </html>

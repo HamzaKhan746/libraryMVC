@@ -1,0 +1,54 @@
+﻿@using System.Data
+@using System.Data.SqlClient
+@model System.Data.DataTable
+@{
+    ViewData["Title"] = "IssueBook Request";
+   Layout = "~/Views/Shared/Memberdashboard.cshtml";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width">
+	    <link rel="stylesheet" type="text/css" href="~/css/updforms.css" asp-append-version="true">
+</head>
+<body>
+    
+                    <h2>ISSUE BOOK REQUEST</h2>
+                    @{
+                    if (Model.Rows.Count > 0)
+                   {
+                     
+                    <form class="issuer" method="post" action="@Url.Action("IssueBookrequestinsert","SideMember")">
+                        <table class="is">
+                            <tr>
+                                <td> <label for="mname">Member Name</label></td>
+                                <td><input type="text" name="txtname" value="@Model.Rows[0]["firstname"]" id="mname"></td>
+                            </tr>
+                            <tr>
+                               <td><label for="memail">Member Email</label></td> 
+                               <td><input type="text" name="txtemail" value="@Model.Rows[0]["email"]" id="memail"></td>
+                            </tr>
+                            <tr>
+                                <td><label for="contact">Member Contact</label></td>
+                                <td><input type="text" name="txtcontact" value="@Model.Rows[0]["contact"]" id="contact"></td>
+                            </tr>
+                            <tr>
+                                <td><label for="bname">Book Id</label></td>
+                                <td><input type="text" name="txtbookid" id="pbname"></td>
+                            </tr>
+                            <tr>
+                                <td> <label for="idate">Issue Date</label></td>
+                                <td><input type="text" value="@ViewBag.Issuedate" name="txtidate" id="idate"></td>
+                            </tr>
+                            <tr>
+                                <td> <label for="rdate">Return Date</label></td>
+                                <td><input type="text" name="txtrdate" value="@ViewBag.Returndate" id="rdate"></td>
+                            </tr>
+                            </table> 
+                            <input type="submit" value="SEND REQUEST" class="ibtn"> </form>
+                            }}
+                        
+       </body>
+       </html>

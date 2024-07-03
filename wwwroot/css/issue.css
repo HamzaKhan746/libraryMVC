@@ -1,0 +1,140 @@
+﻿html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    background-color: white;
+}
+
+.issu_form h2 {
+    color: darkblue;
+    font-size: 1.8em;
+    margin-left: 50px;
+    padding-top: 30px;
+}
+
+.btn {
+    background-color: darkblue;
+    color: white;
+    height: 35px;
+    width: 110px;
+    border-radius: 20px;
+    font-weight: bold;
+    border: None;
+    margin-left: 310px;
+    margin-top: 10px;
+}
+
+.issu_form {
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 200px;
+    background-color: rgb(202, 218, 224);
+    height: 410px;
+    border-radius: 40px;
+}
+
+.issu .is tr {
+    line-height: 36px;
+}
+
+    .issu .is tr td label {
+        padding-left: 50px;
+        font-weight: bold;
+        font-size: 1.4em;
+    }
+
+    .issu .is tr td input {
+        width: 350px;
+        height: 23px;
+        border: 2px solid black;
+        border-radius: 20px;
+        font-weight: bold;
+        font-size: 1.0em;
+        text-align: center;
+    }
+
+.issu {
+    background-color: white;
+    margin-left: 400px;
+    margin-top: -310px;
+    border-radius: 30px;
+    margin-right: 40px;
+    height: 310px;
+    padding-top: 10px;
+}
+
+.enterb {
+    background-color: rgb(127, 176, 196);
+    height: 230px;
+    margin-left: 30px;
+    border-radius: 40px;
+    width: 350px;
+    padding-top: 70px;
+}
+
+    .enterb label {
+        font-weight: bold;
+        font-size: 1.4em;
+    }
+
+    .enterb input {
+        width: 340px;
+        height: 23px;
+        border: 2px solid black;
+        border-radius: 20px;
+        font-size: 1.1em;
+        text-align: center;
+    }
+    .enterb select{
+        width: 340px;
+        height: 23px;
+        border: 2px solid black;
+        border-radius: 20px;
+        font-size: 1.1em;
+        text-align: center;
+    }
+.return_form h2 {
+    color: darkblue;
+    font-size: 1.8em;
+    margin-left: 50px;
+    padding-top: 30px;
+}
+
+.return_form {
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 200px;
+    background-color: rgb(202, 218, 224);
+    height: 450px;
+    border-radius: 40px;
+}
+.return {
+    background-color: white;
+    margin-left: 400px;
+    margin-top: -330px;
+    border-radius: 30px;
+    margin-right: 40px;
+    height: 360px;
+    padding-top: 10px;
+}
+.return .is tr {
+    line-height: 28px;
+}
+
+ .return .is tr td label {
+        padding-left: 50px;
+        font-weight: bold;
+        font-size: 1.4em;
+    }
+
+    .return .is tr td input {
+        width: 350px;
+        height: 23px;
+        border: 2px solid black;
+        border-radius: 20px;
+        font-weight: bold;
+        font-size: 1.0em;
+        text-align: center;
+    }

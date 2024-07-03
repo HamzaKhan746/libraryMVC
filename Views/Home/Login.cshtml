@@ -1,0 +1,93 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>BAKERY MANAGEMENT SYSTEM</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width">
+    <style>
+html,body
+{width: 100%; height: 100%; margin: 0px; padding: 0px; overflow-x: hidden;  background-color: skyblue;
+}
+h2{
+	color:darkblue; text-decoration:underline; font-size:1.8em; text-align:center; padding-top:20px; 
+}
+.btn{
+	background-color: darkblue; color:white; height:35px; width:150px; border-radius: 22px; margin-left:220px;	
+    margin-top:20px; font-weight:bold; border:None; font-size:1.0em;
+	}
+    .login{
+        background-color:white; margin-left:400px; margin-right:400px; margin-top:50px; height:550px; border-radius:370px;
+
+    }
+    .tlog tr td label{ padding-left: 100px; font-weight:bold; font-size:1.4em;
+}
+.tlog tr td input{
+	width: 250px; height:23px; border: 2px solid black; border-radius: 20px; font-weight: bold; font-size:1.0em;
+    text-align:center;
+	}
+    .tlog tr{line-height:40px;}
+    .tlog{
+        margin-top:20px;
+    }
+    .rbtn{
+        font-size:1.4em; font-weight:bold; margin-top:41px; margin-left: 140px;
+    }
+    </style>
+    </head>
+    <body>
+        <form class="login" method="post" action="@Url.Action("Validation")">
+            
+            
+            <h2>LOGIN</h2>
+            <img src="~/css/img8.jpg" style="height:120px; margin-left:227px;">
+            <div class="rbtn">
+            <input type="radio" id="member" name="usertype" value="Member"><label for="member">LOGIN AS MEMBER</label><br>
+            <input type="radio" id="librarian" name="usertype" value="Librarian" /><label for="librarian">LOGIN AS LIBRARIAN</label></div>
+  <table class="tlog">
+    <tr>
+        <td> <label for="username">Username</label></td>
+                <td><input type="text" name="txtusername" id="username"></td>
+    </tr>
+    <tr>
+        <td> <label for="password">Password</label></td>
+                <td><input type="password" name="txtpassword" id="password"></td>
+    </tr>
+  </table>
+  <input type="submit" value="LOGIN" class="btn">
+  </form>
+       
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

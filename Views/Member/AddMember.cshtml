@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "Add Member";
+   Layout = "~/Views/Shared/Libdashboard.cshtml";
+
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="~/css/library.css" asp-append-version="true">
+    <title>Add Member</title>
+</head>
+<body>
+    <form class="add_form" method="post" action="@Url.Action("InsertMember","Member")">
+        <h2>ADD MEMBER</h2><br>
+        <img src="~/css/img5.jpg" style="height:120px; margin-left:425px;"><br><br>
+        <table class="ad" style="margin-top:-10px;">
+            <tr>
+                <td> <label for="fname">First Name</label></td>
+                <td><input type="text" name="txtfname" id="fname"></td>
+            </tr>
+            <tr>
+               <td><label for="lname">Last Name</label></td> 
+               <td><input type="text" name="txtlname" id="lname"></td>
+            </tr>
+            <tr>
+                <td><label for="email">Email</label></td>
+                <td><input type="email" name="txtemail" id="email"></td>
+            </tr>
+            <tr>
+                <td><label for="contact">Contact</label></td>
+                <td><input type="text" name="txtcontact" id="contact"></td>
+            </tr>
+            <tr>
+                <td> <label for="address">Address</label></td>
+                <td><input type="text" name="txtaddress" id="address"></td>
+            </tr>
+            <tr>
+                <td><label for="password">Password</label></td>
+                <td><input type="text" name="txtpassword" id="password"></td>
+            </table>    
+    <input type="submit" value="ADD" class="btn">
+    </form>
+</body>
+</html>
+
+
+
+
+
+
+
+

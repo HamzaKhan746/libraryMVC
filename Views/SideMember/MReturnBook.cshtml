@@ -1,0 +1,102 @@
+﻿@using System.Data
+@using System.Data.SqlClient
+@model System.Data.DataTable
+@{
+    ViewData["Title"] = "Return Book";
+  if(ViewBag.user=="lib")
+    {
+        Layout = "~/Views/Shared/Libdashboard.cshtml";
+    }
+    else
+    {
+            Layout = "~/Views/Shared/Memberdashboard.cshtml";
+    }
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width">
+	    <link rel="stylesheet" type="text/css" href="~/css/issue.css" asp-append-version="true">
+</head>
+<body>
+    <div class="return_form" >
+                    <h2>RETURN BOOK</h2>
+                    <form class="enterb" method="post" action="@Url.Action("Searchreturnbook","SideMember")">
+                <label for="bid">Enter Issue BookId </label><br><br>
+            @{
+                if (Model.Rows.Count > 0)
+                {
+                        <select name="txtibookid" id="bid">
+                            @foreach (DataRow dr in Model.Rows)
+                        {
+                                <option>@dr["issuebookid"].ToString()</option>
+                        }
+                        </select>
+                }
+                else
+                {  <script type="text/javascript">
+                                        alert("You do not have any issued book");
+                                              </script>
+                }
+                }
+                    <input type="submit" value="SEARCH" style="width:130px;  height:29px; border:None; margin-left:100px; background-color:darkblue; color:white; font-size: 0.8em;">
+                        </form>
+                         @{
+            if (@ViewBag.flag == 1)
+            {
+                if (Model.Rows.Count > 0)
+                   {
+                                                <form class="return" method="post" action="@Url.Action("Returnbookinsert","SideMember")">
+                                                <table class="is">
+                                                <tr>
+                                                        <td> <label for="mid">Member Id</label></td>
+                                                        <td><input type="text" name="txtmid" value="@Model.Rows[0]["memberid"]" id="mid"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td> <label for="mname">Member Name</label></td>
+                                                        <td><input type="text" name="txtname" value="@Model.Rows[0]["firstname"]" id="mname"></td>
+                                                    </tr>
+                                                    <tr>
+                                                       <td><label for="memail">Member Email</label></td> 
+                                                       <td><input type="text" name="txtemail" value="@Model.Rows[0]["email"]" id="memail"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><label for="contact">Member Contact</label></td>
+                                                        <td><input type="text" name="txtcontact" value="@Model.Rows[0]["contact"]" id="contact"></td>
+                                                    </tr>
+                                                    <tr>
+                                                       <td><label for="bid">Book Id</label></td> 
+                                                       <td><input type="text" name="txtbookid" value="@Model.Rows[0]["bookid"]" id="bid"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td> <label for="idate">Issue Date</label></td>
+                                                        <td><input type="text" name="txtidate" value="@Model.Rows[0]["issuedate"]" id="idate"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td> <label for="rdate">Return Date</label></td>
+                                                        <td><input type="text" name="txtrdate" value="@Model.Rows[0]["returndate"]" id="rdate"></td>
+                                                    </tr>
+                                                    <tr>
+                                            <td> <label for="dd">Days Delay</label></td>
+                                            <td><input type="text" name="" value="@ViewBag.Daysdelay" id="dd"></td>
+                                        </tr>
+                                        <tr>
+                                            <td> <label for="f">Fine</label></td>
+                                            <td><input type="text" name="" value="@ViewBag.Fine" id="f"></td>
+                                        </tr>
+                                                    </table> 
+                                                    <input type="submit" value="RETURN BOOK" class="btn"> </form>
+                        }
+                        else
+                    {
+                                               <script type="text/javascript">
+                                        alert("Invalid IssueBook id, Either the book is not issued or it is returned");
+                                              </script>
+                    }
+                        }
+                            }
+                            </div>
+    </body>
+    </html>
